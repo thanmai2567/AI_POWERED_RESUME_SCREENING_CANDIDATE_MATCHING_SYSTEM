@@ -1,0 +1,2 @@
+# AI_POWERED_RESUME_SCREENING_CANDIDATE_MATCHING_SYSTEM
+AI powered Resume Screening and Cnadidate Matching System
