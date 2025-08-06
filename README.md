@@ -2,6 +2,7 @@ This project is an AI-powered Resume Screening and Candidate Matching System des
 
 
 Features:
+
 Resume Parsing: Extracts key information from resumes like name, contact info, skills, and experience.
 
 Skill Matching: Matches skills listed in the resume to those required in the job description.
@@ -19,6 +20,7 @@ Database: MongoDB is used to store resumes, user data, and job listings.
 Authentication: JWT-based authentication for secure access.
 
 Tech Stack
+
 Frontend: Next.js (React.js framework)
 
 Backend: Flask (Python)
