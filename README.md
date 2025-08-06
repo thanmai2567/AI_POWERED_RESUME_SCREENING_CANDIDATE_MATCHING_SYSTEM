@@ -1,6 +1,6 @@
-This project is an AI-powered Resume Screening and Candidate Matching System designed to automate the hiring process. 
-It analyzes resumes and matches candidates to job descriptions based on their skills, experiences, and qualifications. 
-The system utilizes Natural Language Processing (NLP) to parse and evaluate the content of resumes, identifying key attributes for matching with job requirements.
+This project is an AI-powered Resume Screening and Candidate Matching System designed to automate the hiring process.It analyzes resumes and matches candidates to job descriptions based on their skills, experiences, and qualifications.The system utilizes Natural Language Processing (NLP) to parse and evaluate the content of resumes, identifying key attributes for matching with job requirements.
+
+
 Features:
 Resume Parsing: Extracts key information from resumes like name, contact info, skills, and experience.
 
